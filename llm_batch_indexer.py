@@ -8,7 +8,7 @@ import google.generativeai as genai
 from dotenv import load_dotenv
 from system_instructions import *
 import logging
-import psycopg2
+# import psycopg2
 
 # Configure logging
 logging.basicConfig(level=logging.INFO,
